@@ -1,0 +1,3 @@
+    <p>{parts.p1} exercises: {parts.ex1}</p>
+      <p>{parts.p2} exercises: {parts.ex2}</p>
+      <p>{parts.p3} exercises: {parts.ex3}</p>
